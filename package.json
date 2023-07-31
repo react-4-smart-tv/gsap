@@ -1,0 +1,47 @@
+{
+  "name": "@react4tv/gsap",
+  "version": "1.0.0",
+  "description": "Gsap v3(12)",
+  "module": "index.js",
+  "main": "dist/gsap.js",
+  "types": "types/index.d.ts",
+  "sideEffects": false,
+  "keywords": [
+    "GSAP",
+    "trial",
+    "GreenSock",
+    "animation",
+    "MotionPathPlugin",
+    "matchMedia",
+    "motion",
+    "motionPath",
+    "ScrollTrigger",
+    "ScrollSmoother",
+    "Observer",
+    "easing",
+    "JavaScript",
+    "PixiPlugin",
+    "CustomEase",
+    "Flip",
+    "SVG",
+    "3D",
+    "2D",
+    "transform",
+    "morph",
+    "morphing",
+    "drawSVG",
+    "tweening"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-4-smart-tv/gsap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/react-4-smart-tv/gsap/issues"
+  },
+  "homepage": "https://github.com/react-4-smart-tv/gsap#readme",
+  "author": "Nguyễn Sỹ Thành Công <thanhcongns94@gmail.com>"
+}
